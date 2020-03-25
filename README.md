@@ -1,2 +1,2 @@
-# All-projects
-contains my projects
+# project 1
+A python application
